@@ -130,3 +130,6 @@ dmypy.json
 
 # Cache files
 .vscode
+
+# Prototyping files
+p.ipynb
