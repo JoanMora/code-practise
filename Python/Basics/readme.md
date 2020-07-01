@@ -8,4 +8,4 @@
 | Num_of_vowels                  | `filter()`                                           | [codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)              |
 | Quarter_of_the_year            | `math.ceil()`                                        | [codewars](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)              |
 | Reverse_String                 | `word[::-1]`, `comprehesion list` `if..else for`     | [codewars](https://www.codewars.com/kata/5264d2b162488dc400000001)              |
-| Reverse_the_bits_in_an_integer | `bin()`                                              | [codewars](codewars.com/kata/5959ec605595565f5c00002b)                          |
+| Reverse_the_bits_in_an_integer | `bin()`                                              | [codewars](https://www.codewars.com/kata/5959ec605595565f5c00002b)                          |
