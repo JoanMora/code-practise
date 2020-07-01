@@ -65,3 +65,12 @@ def codewar_result (codewarrior, opponent) :
     if(score>imbalance): return "Victory"
     if(score==imbalance): return "Stalemate"
     return "Defeat"
+
+
+def test_codewar_result():
+    assert codewar_result([1, 4, 1], [1, 5, 3]) == 'Stalemate'
+    assert codewar_result([2, 4, 3, 1], [4, 5, 1, 2]) == 'Victory'
+    assert codewar_result([1, 2, 2, 1], [3, 1, 2, 3]) == 'Defeat'
+    assert codewar_result([1, 1, 1, 1], [1, 1, 1, 1]) == 'Stalemate'
+    assert codewar_result([5], [6]) == 'Defeat'
+    assert codewar_result([2, 1, 3, 1, 1, 3, 3, 2, 3, 1, 1, 1, 3, 1, 3, 1, 3, 3, 1, 2, 3, 3, 1, 3], [4, 4, 1, 4, 3, 1, 4, 4, 3, 2, 1, 2, 1, 3, 3, 1, 4, 4, 3, 2, 3, 2, 4, 1]) == 'Stalemate'
