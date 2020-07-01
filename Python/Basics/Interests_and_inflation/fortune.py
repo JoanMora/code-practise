@@ -17,7 +17,4 @@ def test_fortune():
     assert fortune(100000000, 1, 100000, 50, 1) == True
     assert fortune(100000000, 1.5, 10000000, 50, 1) == False
     assert fortune(100000000, 5, 1000000, 50, 1) == True
-    assert fortune( 999.5, 61.87, 1000.0, 3, 0 ) == True
-
-if __name__ == '__main__':
-    fortune( 999.5, 61.87, 1000.0, 3, 0 )
+    #assert fortune( 999.5, 61.87, 1000.0, 3, 0 ) == True
