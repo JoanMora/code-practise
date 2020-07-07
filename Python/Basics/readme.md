@@ -5,6 +5,7 @@
 | Capitalize_letters             | `map()`, `' '.join()`                                | [codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6)              |
 | Codewar_Optimization           | `Optimization`, `Algorithms`                         | [codewars](https://www.codewars.com/kata/5e3f043faf934e0024a941d7)              |
 | Comparison_greek_alphabet      | `.index()`                                           | [codewars](https://www.codewars.com/kata/56bc1acf66a2abc891000561)              |
+| Count_Bits                     | `Binary`                                             | [codewars](https://www.codewars.com/kata/526571aae218b8ee490006f4)              |
 | Interests_and_inflation        | `Algorithms`  `mathematical functions`               | [codewars](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/python)       |
 | Num_of_vowels                  | `filter()`                                           | [codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)              |
 | Quarter_of_the_year            | `math.ceil()`                                        | [codewars](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)              |
