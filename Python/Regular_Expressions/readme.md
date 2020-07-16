@@ -1,4 +1,4 @@
-# Regula Expressions
+# Regular Expressions
 
 ### Table of Contents
 | Name        | Comment                              | Sorce    |
